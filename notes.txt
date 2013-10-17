@@ -2,3 +2,5 @@ some text enteered in the browswer
 this was added while in a new branch (testmygit)
 
 Here's some text from Windows on a new branch (branch_in_windows).
+
+Test from VM using Richards account
